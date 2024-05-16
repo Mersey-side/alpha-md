@@ -35,15 +35,15 @@ module.exports = {
   READ: process.env.READ || "command", //true, command
   REACT: process.env.REACT || "", //true, command, emoji
   WARNCOUNT: process.env.WARNCOUNT || 3,
-  BOT_INFO: process.env.BOT_INFO || "alpha-md;C-iph3r;https://i.imgur.com/nXqqjPL.jpg",
-  WORKTYPE: process.env.WORKTYPE || "private",
+  BOT_INFO: process.env.BOT_INFO || "𝑴𝒆𝒓𝒔𝒆𝒚𝒔𝒊𝒅𝒆 𝑴𝑫;https://imgur.com/BCG7iEN",
+  WORKTYPE: process.env.WORKTYPE || "public",
   PREFIX: process.env.PREFIX || "[.,#!]", //both  .  and [.] equal, for multi prefix we use [] this
   LANG: process.env.LANG || "en",
   PERSONAL_MESSAGE: process.env.PERSONAL_MESSAGE || "null",
   BOT_PRESENCE: process.env.BOT_PRESENCE || "", //available , composing, recording, paused 
-  AUDIO_DATA: process.env.AUDIO_DATA || "alpha-md;C-iph3r;https://i.imgur.com/nXqqjPL.jpg",
-  STICKER_DATA: process.env.STICKER_DATA || "C-iph3r;alpha-md",
-  SUDO: process.env.SUDO || "",// add sudo numbers here seperated by a comma(,) after each
+  AUDIO_DATA: process.env.AUDIO_DATA || "𝑴𝒆𝒓𝒔𝒆𝒚𝒔𝒊𝒅𝒆 𝑴𝑫;https://imgur.com/BCG7iEN",
+  STICKER_DATA: process.env.STICKER_DATA || "𝑴𝒆𝒓𝒔𝒆𝒚𝒔𝒊𝒅𝒆💙",
+  SUDO: process.env.SUDO || "254102028964",// add sudo numbers here seperated by a comma(,) after each
   RMBG_KEY: process.env.RMBG_KEY,
   OPEN_AI: process.env.OPEN_AI,
   ELEVENLABS: process.env.ELEVENLABS,
