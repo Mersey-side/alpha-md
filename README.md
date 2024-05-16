@@ -1,13 +1,14 @@
  <p align="center">  
   <a href="https://github.com/C-iph3r">
-    <h1 align="center">ALPHA-MD</h1>
-  </a>
+    <h1 align="center">𝐌𝐞𝐫𝐬𝐞𝐲𝐬𝐢𝐝𝐞-𝐌𝐃</h1><img
+     src="https://imgur.com/BCG7iEN">
+ </a>
 </p>
 <p align="center"> 
-<img src="https://komarev.com/ghpvc/?username=C-iph3r&color=brightgreen" />
+<img src="https://komarev.com/ghpvc/?username=Mersey-side&color=brightgreen" />
 <p/>
 <p align="center">
-<a href="https://github.com/C-iph3r"><img title="Author" src="https://img.shields.io/badge/Alpha-md-black?style=for-the-badge&logo=whatsApp"></a>
+<a href="https://github.com/C-iph3r"><img title="Author" src="https://img.shields.io/badge/𝐌𝐞𝐫𝐬𝐞𝐲𝐬𝐢𝐝𝐞-𝐌𝐃?style=for-the-badge&logo=whatsApp"></a>
 <p/>
 <p align="center">
 <a href="https://github.com/C-iph3r?tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/C-iph3r?label=Followers&style=social"></a>
